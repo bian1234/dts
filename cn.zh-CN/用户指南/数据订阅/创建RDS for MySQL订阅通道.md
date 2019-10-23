@@ -1,4 +1,4 @@
-# 创建RDS for MySQL订阅通道 {#concept_744286 .concept}
+# 创建RDS for MySQL订阅通道 吗{#concept_744286 .concept}
 
 通过数据订阅功能，您可以实时订阅增量数据，轻松帮助业务实现轻量级缓存更新、业务异步解耦、含ETL逻辑的数据实时同步等场景。本文介绍如何创建RDS for MySQL数据订阅通道。
 
